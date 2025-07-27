@@ -11,15 +11,17 @@ The app is very i easy to setup. Just follow the steps below to set it up.
 
 1) Either download the project as a ZIP file or clone it using the command as shown in the image.
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="500" height="500" />
 
 2) Once the project has been downloaded or cloned go to the project folder (called ChatApp) and open it with any of your favourite editor. I will use VSCode for the setup process.
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-1.png" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-1.png" width="500" height="500" />
 
 3) After opening the project folder open two terminals. To open a terminal go to the top menu bar where you will see the option called "View". Select it then select "Terminal" from the drop down as in the picture. Follow the same process to open another terminal.
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-2.png" width="400" height="400" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-2.png" width="500" height="500" />
+</div>
 
 3) Now go to the following directories from the project folder to install dependencies:-
     a) In one terminal type "cd frontend" to go to the frontend folder.
@@ -28,12 +30,12 @@ The app is very i easy to setup. Just follow the steps below to set it up.
 
 4) From the terminal run "npm run dev" in the frontend folder and the backend folder.
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-4.png" width="400" height="400" />
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-5.png" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-4.png" width="500" height="500" />
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-5.png" width="500" height="500" />
 
 6) You will see something similar to this image
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-6.png" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-6.png" width="500" height="500" />
 
 Now you can signin, signup to send text and images to others.
 
