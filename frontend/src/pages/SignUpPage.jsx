@@ -35,7 +35,8 @@ const SignUpPage = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    setFormData({ ...formData, fullName: formData.firstName + " " + formData.lastName })
+    const fullName = `${formData.firstName} ${formData.lastName}`;
+    setFormData({ ...formData, fullName: fullName})
     console.log("formData", formData);
     const success = validateForm();
 
