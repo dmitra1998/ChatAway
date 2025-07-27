@@ -11,17 +11,15 @@ The app is very i easy to setup. Just follow the steps below to set it up.
 
 1) Either download the project as a ZIP file or clone it using the command as shown in the image.
 
-![Download](image.png)
-
 <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="400" height="400" />
 
 2) Once the project has been downloaded or cloned go to the project folder (called ChatApp) and open it with any of your favourite editor. I will use VSCode for the setup process.
 
-![VSCode Option](image-1.png)
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-1.png" width="400" height="400" />
 
 3) After opening the project folder open two terminals. To open a terminal go to the top menu bar where you will see the option called "View". Select it then select "Terminal" from the drop down as in the picture. Follow the same process to open another terminal.
 
-![Terminal](image-2.png)
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-2.png" width="400" height="400" />
 
 3) Now go to the following directories from the project folder to install dependencies:-
     a) In one terminal type "cd frontend" to go to the frontend folder.
@@ -29,11 +27,13 @@ The app is very i easy to setup. Just follow the steps below to set it up.
     c) In both the terminal type "npm install" to install all the dependencies.
 
 4) From the terminal run "npm run dev" in the frontend folder and the backend folder.
-![npm run dev frontend](image-4.png) ![npm run dev backend](image-5.png)
 
-5) You will see something similar to this image
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-4.png" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-5.png" width="400" height="400" />
 
-![url](image-6.png)
+6) You will see something similar to this image
+
+<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-6.png" width="400" height="400" />
 
 Now you can signin, signup to send text and images to others.
 
