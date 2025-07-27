@@ -12,7 +12,7 @@ The app is very i easy to setup. Just follow the steps below to set it up.
 1) Either download the project as a ZIP file or clone it using the command as shown in the image.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="250" height="250" />
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="400" height="400" />
 </div>
 
 2) Once the project has been downloaded or cloned go to the project folder (called ChatApp) and open it with any of your favourite editor. I will use VSCode for the setup process.
