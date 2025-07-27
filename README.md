@@ -10,21 +10,21 @@ The application is still in progress
 The app is very i easy to setup. Just follow the steps below to set it up.
 <br>
 1) Either download the project as a ZIP file or clone it using the command as shown in the image.
-
+<br>
 <div align="center">
     <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="400" height="400" />
 </div>
 <br>
 2) Once the project has been downloaded or cloned go to the project folder (called ChatApp) and open it with any of your favourite editor. I will use VSCode for the setup process.
-
+<br>
 <div align="center">
     <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-1.png" width="600" height="600" />
 </div>
 <br>
 3) After opening the project folder open two terminals. To open a terminal go to the top menu bar where you will see the option called "View". Select it then select "Terminal" from the drop down as in the picture. Follow the same process to open another terminal.
-
+<br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-2.png" width="600" height="60" />
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-2.png" width="600" height="600" />
 </div>
 <br>
 3) Now go to the following directories from the project folder to install dependencies:-
@@ -33,14 +33,14 @@ The app is very i easy to setup. Just follow the steps below to set it up.
     c) In both the terminal type "npm install" to install all the dependencies.
 <br>
 4) From the terminal run "npm run dev" in the frontend folder and the backend folder.
-
+<br>
 <div align="center">
     <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-4.png" width="300" height="300" /> <br>
     <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-5.png" width="300" height="300" />
 </div>
 <br>
 6) You will see something similar to this image
-
+<br>
 <div align="center">
     <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-6.png" width="300" height="300" />
 </div>
