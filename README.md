@@ -11,16 +11,20 @@ The app is very i easy to setup. Just follow the steps below to set it up.
 
 1) Either download the project as a ZIP file or clone it using the command as shown in the image.
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="500" height="500" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/refs/heads/main/image.png" width="600" height="600" />
+</div>
 
 2) Once the project has been downloaded or cloned go to the project folder (called ChatApp) and open it with any of your favourite editor. I will use VSCode for the setup process.
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-1.png" width="500" height="500" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-1.png" width="600" height="600" />
+</div>
 
 3) After opening the project folder open two terminals. To open a terminal go to the top menu bar where you will see the option called "View". Select it then select "Terminal" from the drop down as in the picture. Follow the same process to open another terminal.
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-2.png" width="500" height="500" />
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-2.png" width="600" height="600" />
 </div>
 
 3) Now go to the following directories from the project folder to install dependencies:-
