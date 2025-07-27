@@ -34,12 +34,16 @@ The app is very i easy to setup. Just follow the steps below to set it up.
 
 4) From the terminal run "npm run dev" in the frontend folder and the backend folder.
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-4.png" width="500" height="500" />
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-5.png" width="500" height="500" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-4.png" width="500" height="500" />
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-5.png" width="500" height="500" />
+</div>
 
 6) You will see something similar to this image
 
-<img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-6.png" width="500" height="500" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/dmitra1998/ChatAway/main/image-6.png" width="500" height="500" />
+</div>
 
 Now you can signin, signup to send text and images to others.
 
