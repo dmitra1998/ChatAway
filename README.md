@@ -5,6 +5,6 @@ ChatAway is a web application where users can send text messages and photos to f
 
 The application is still in progress
 
-# Setup
+## Setup
 
 1) 
